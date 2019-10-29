@@ -1,4 +1,4 @@
-package com.ngyb.crossviewgroup;
+package com.ngyb.crosslayout;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

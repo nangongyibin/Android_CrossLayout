@@ -1,10 +1,10 @@
-package com.ngyb.crosslayout;
+package com.example.crosslayout;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-import com.ngyb.crossviewgroup.CrossLayout;
+import com.ngyb.crosslayout.CrossLayout;
 
 public class MainActivity extends AppCompatActivity {
 

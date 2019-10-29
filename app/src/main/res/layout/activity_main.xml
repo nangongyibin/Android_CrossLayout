@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context="com.example.crosslayout.MainActivity">
 
     <Button
         android:layout_width="match_parent"
@@ -13,7 +13,7 @@
         android:onClick="change"
         android:text="切换" />
 
-    <com.ngyb.crossviewgroup.CrossLayout
+    <com.ngyb.crosslayout.CrossLayout
         android:id="@+id/cl"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -32,5 +32,5 @@
             android:layout_width="250dp"
             android:layout_height="50dp"
             android:background="@android:color/black" />
-    </com.ngyb.crossviewgroup.CrossLayout>
+    </com.ngyb.crosslayout.CrossLayout>
 </LinearLayout>

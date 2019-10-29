@@ -1,4 +1,4 @@
-package com.ngyb.crossviewgroup;
+package com.ngyb.crosslayout;
 
 import org.junit.Test;
 
